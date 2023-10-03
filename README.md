@@ -10,7 +10,7 @@ Para ver o resultado so site so acessar `https://playstationdurezah.online/`[ou 
 > [!NOTE]
 > Angular
 
-##Layout Desktop
+## Layout Desktop
 
 <details>
 <summary>Minha interface</summary>
