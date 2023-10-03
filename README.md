@@ -11,8 +11,9 @@ Para ver o resultado so site so acessar `https://playstationdurezah.online/`[ou 
 > Angular
 
 ##Layout Desktop
+
 <details>
-<summary>Imagens da minha interface</summary>
+<summary>Minha interface</summary>
 ![image](https://github.com/DurezahGeek/angular__playstation-store/assets/134101156/7cd33105-f2e6-4adc-bb8e-b3c2f0090824)
 ![image](https://github.com/DurezahGeek/angular__playstation-store/assets/134101156/3e351889-0040-4b40-ad0e-84799593e46e)
 ![image](https://github.com/DurezahGeek/angular__playstation-store/assets/134101156/bbe33a29-ba9d-47ec-802b-c69f0a147af4)
