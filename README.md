@@ -2,9 +2,6 @@
 
 >Utilizei o Angular neste projeto para criar uma réplica da interface da tela inicial da PlayStation Store, reforçando conceitos como componentes, ciclo de vida, módulos, rotas, diretrizes e serviços. Além disso, busquei replicar o layout mobile da PlayStation Store, proporcionando uma experiência visualmente atraente para os usuários.
 
-![image](https://github.com/DurezahGeek/angular__playstation-store/assets/134101156/fd06bd25-090c-4573-8be7-e374882e2fb8)
-
-
 ## Ver a interface do site
 
 Para ver o resultado so site so acessar `https://playstationdurezah.online/`[ou clique aqui](https://playstationdurezah.online/).
@@ -51,6 +48,10 @@ Para ver o resultado so site so acessar `https://playstationdurezah.online/`[ou 
 ![image](https://github.com/DurezahGeek/angular__playstation-store/assets/134101156/a9474b16-1545-41d6-ab87-d7afaf7bb4f8)
 ![image](https://github.com/DurezahGeek/angular__playstation-store/assets/134101156/b54fa424-6e0d-4b7c-bd08-8a3422fda077)
 </details>
+
+## Resultado da tela toda 👾
+![image](https://github.com/DurezahGeek/angular__playstation-store/assets/134101156/da309666-ab7f-4c2d-a853-3aceda104052)
+
 
 
 
