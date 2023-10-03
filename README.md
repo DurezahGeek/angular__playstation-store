@@ -4,7 +4,7 @@ Utilizei o Angular neste projeto para criar uma réplica da interface da tela in
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Para ver o resultado so site so acessar `https://playstationdurezah.online/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
