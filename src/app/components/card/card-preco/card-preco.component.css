@@ -1,0 +1,62 @@
+.card-preco__container{
+	position: absolute;
+	bottom: 0px;
+	left: 0;
+	width: 100%;
+	height: 70px;
+	bottom: 0px;
+	display: flex;
+	flex-direction: column;
+	background-color: rgba(0, 0, 0, 0.8);
+	color: antiquewhite;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.card-preco__titulo{
+	margin-bottom: 3px;
+	letter-spacing: 3px;
+}
+
+.card-preco__value{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.card-preco__value__console{
+	display: flex;
+	flex-direction: row;
+}
+
+.card-preco__value__console >span{
+	font-weight: bolder;
+	color: aqua;
+}
+
+.game-preco{
+	margin-right: 5px;
+}
+
+@media screen and (max-width: 768px) {
+	.card-preco__container{
+		width: 100%;
+		height: 50px;
+	}
+
+	.card-preco__titulo{
+		margin-bottom: 1px;
+		letter-spacing: 1px;
+		font-size: 13px;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+
+	.card-preco__value__console{
+		font-size: 12px;
+	}
+
+	.game-preco{
+		margin-right: 5px;
+		font-size: 12px;
+	}
+}

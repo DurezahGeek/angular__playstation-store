@@ -1,0 +1,107 @@
+.melhoresjogos {
+  display: flex;
+  overflow-x: hidden;
+  gap: 15px;
+  width: 90%;
+  margin: auto;
+  height: 450px;
+  margin-left: 120px;
+  position: relative;
+  scroll-behavior: smooth;
+}
+
+.card__container {
+  flex: 0 0 auto;
+  overflow: hidden;
+	margin-top: 30px;
+	border-radius: 15px;
+}
+
+.card__container >p{
+  margin-top: 10px;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.card__img {
+	width: 273px;
+  height: 273px;
+	border-radius: 15px;
+	transition: transform .8s;
+}
+
+.card__img:hover {
+  transform: scale(1.1);
+}
+
+.scroll-container {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.button {
+  background-color: rgb(3, 94, 168);
+	width: 50px;
+	height: 50px;
+  font-size: 30px;
+  cursor: pointer;
+  padding: 5px;
+  position: absolute;
+  transform: translateY(-50%);
+  z-index: 1;
+  color: white;
+	border-radius: 50%;
+}
+
+.esquerda {
+  left: 100px;
+	top:160px;
+}
+
+.direita {
+  right: 50px;
+	top:160px;
+}
+
+@media screen and (max-width: 768px) {
+  .melhoresjogos {
+    width: 100%;
+    margin-left: 10px;
+    height: auto;
+		margin-bottom: 90px;
+  }
+
+  .card__container >p{
+		margin-top: 10px;
+		font-size: 13px;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+
+  .card__img {
+    width: 182px;
+    height: 182px;
+  }
+
+	.card__link{
+		width: 182px;
+    height: 182px;
+	}
+
+  .button {
+		width: 35px;
+		height: 35px;
+  	font-size: 20px;
+  }
+
+	.esquerda {
+		left: 0px;
+		top:130px;
+	}
+
+	.direita {
+		right: 0px;
+		top:130px;
+	}
+}

@@ -1,0 +1,39 @@
+.home__container{
+	width: 100%;
+}
+.card__container {
+		width: 91%;
+		margin: 70px 800px 40px 110px;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-around;
+		align-content: flex-start;
+}
+
+@media screen and (max-width: 768px) {
+  .card__container {
+		margin: 50px 5px;
+		flex-direction: row;
+		width: 95%;
+	}
+}
+
+p{
+	margin-left: 120px;
+	font-size: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+@media screen and (max-width: 768px) {
+	p{
+		margin-left: 15px;
+		font-size: 20px;
+	}
+}
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+.ps4__container{
+	width: 90%;
+	margin: auto;
+	padding-top: 50px;
+	display: flex;
+	justify-content: space-around;
+	align-items: baseline;
+	flex-wrap: wrap;
+	padding-bottom: 20px;
+}
+
+@media screen and (max-width: 768px) {
+	.ps4__container{
+	padding-top: 90px;
+	}
+
+}
