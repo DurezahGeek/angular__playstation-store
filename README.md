@@ -4,4 +4,4 @@ Utilizei o Angular neste projeto para criar uma réplica da interface da tela in
 
 ## Ver a interface do site
 
-Para ver o resultado so site so acessar `https://playstationdurezah.online/,`[ou clique aqui](https://playstationdurezah.online/).
+Para ver o resultado so site so acessar `https://playstationdurezah.online/`, [ou clique aqui](https://playstationdurezah.online/).
